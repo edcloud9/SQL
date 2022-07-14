@@ -1,0 +1,1 @@
+# SQL: In this repository I included a school schedule database that I worked on as a group in a college course ITM 331 at CSU East Bay. I also included projects and tests I worked on through Udemy.com to further enhance my SQL skills.
